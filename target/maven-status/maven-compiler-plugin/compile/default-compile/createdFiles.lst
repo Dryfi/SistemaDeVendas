@@ -1,0 +1,8 @@
+com\mycompany\sistemadevendas\NotaFiscalService.class
+com\mycompany\sistemadevendas\PagamentoService.class
+com\mycompany\sistemadevendas\CarrinhoDeCompras$ItemCarrinho.class
+com\mycompany\sistemadevendas\Produto.class
+com\mycompany\sistemadevendas\VendaService.class
+com\mycompany\sistemadevendas\SistemaDeVendas.class
+com\mycompany\sistemadevendas\DescontoService.class
+com\mycompany\sistemadevendas\CarrinhoDeCompras.class
